@@ -1,0 +1,44 @@
+h1{
+    color:grey ;
+}
+header{
+    margin-bottom: 20px;
+}
+.blue{
+    color: blue;
+}
+.height{
+    height: 200px;
+    border-radius: 2px;
+}
+a{
+    border: 1px solid ;
+    border-radius: 5px;
+    text-decoration: none;
+    border-width: 2px;
+    color: black;
+    background-color: antiquewhite;
+    height:10px;
+}
+nav{
+    text-align: right;
+    position: relative;
+}
+footer{
+    background-color: rgb(235, 192, 192);
+    padding-top: 2px;
+    text-align: center;
+}
+img{
+    width: 1340px;
+}
+hr{
+    position: relative;
+    text-align: center;
+}
+.border{
+    border-radius: 5px;
+}
+p{
+    font-size: 18px;
+}
